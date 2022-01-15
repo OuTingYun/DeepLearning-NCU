@@ -20,7 +20,7 @@
 
 **3. One hot encoding**:
 
-我們要預測的答案為 0~9，因此我們對標籤做one hot encoding，分成10類
+我們要預測的答案為 `0~9`，因此我們對標籤做one hot encoding，分成10類
 
 ### Model
 
