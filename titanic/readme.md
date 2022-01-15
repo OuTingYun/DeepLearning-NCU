@@ -8,7 +8,6 @@
 因此，如何處理這些缺失的資料將會很大的影響我們預測的結果！
 
 ![hw1-1](https://github.com/OuTingYun/DeepLearning-NCU/blob/main/img/hw1-1.png)
-
 ![hw1-2](https://github.com/OuTingYun/DeepLearning-NCU/blob/main/img/hw1-2.png)
 
 
