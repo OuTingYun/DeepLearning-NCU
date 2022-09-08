@@ -29,3 +29,11 @@ This file include:
 3. `bad model` : Some work but not perfoms really good.
 4. `au_lab3.pdf` : Our homework rules.
 5. `readme` : tell how we did.
+
+### kaggle notebook (final hw)
+you can find origin competition [here](https://www.kaggle.com/c/g-research-crypto-forecasting)
+
+This fule include:
+1. `kaggle notebook` : Some works.
+2. `au_lab3.pdf` : Our homework rules.
+3. `readme` : tell how we did.
